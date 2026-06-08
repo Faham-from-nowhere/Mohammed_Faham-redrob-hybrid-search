@@ -133,7 +133,6 @@ To ensure this tool is usable by recruiting stakeholders, we built `app.py`. The
 - **System Telemetry:** Tracks global metrics like "Mean Pool Trust" and "Core Domain Elites" to prove the health and validity of the final Top 100 pool.
 
 ---
-*Generated for the Redrob Intelligent Candidate Discovery & Ranking Challenge.*
 
 
 ## 1. Why RRF instead of a weighted sum?
