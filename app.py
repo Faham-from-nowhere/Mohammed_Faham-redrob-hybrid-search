@@ -7,7 +7,7 @@ st.set_page_config(page_title="Redrob Ranker XAI", layout="wide", page_icon="ğŸ
 @st.cache_data
 def load_data():
     try:
-        sub = pd.read_csv("team_redrob_submission.csv")
+        sub = pd.read_csv("Boogiemen_redrob_submission.csv")
         features = pd.read_parquet("candidate_features.parquet")
         sem = pd.read_parquet("semantic_features.parquet")
         
