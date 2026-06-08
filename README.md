@@ -102,7 +102,7 @@ To execute the pipeline end-to-end on a local machine, follow these precise step
 Clone the repository and install the required dependencies. Python 3.10+ is recommended.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/redrob-hybrid-search.git
+git clone https://github.com/Faham-from-nowhere/redrob-hybrid-search.git
 cd redrob-hybrid-search
 
 # Create and activate a virtual environment
@@ -126,7 +126,7 @@ Run the feature extraction scripts. These scripts will parse the raw JSON, gener
 python build_semantic.py
 
 # 2. Build Sparse Symbolic Features
-# python build_symbolic.py
+python build_symbolic.py
 ```
 
 ### 4. Final Ranking
