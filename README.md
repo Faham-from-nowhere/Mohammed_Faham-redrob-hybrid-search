@@ -1,4 +1,4 @@
-# 🏆 Team Redrob: Twin-Engine Hybrid Search Pipeline
+# 🏆 Team Boogimen: Twin-Engine Hybrid Search Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=for-the-badge&logo=pandas)
