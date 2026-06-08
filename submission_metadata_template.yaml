@@ -1,0 +1,88 @@
+# Redrob Hackathon — Submission Metadata Template
+#
+# Copy this file to your repo root as `submission_metadata.yaml` and fill it in.
+# The fields here should match what you submit via the portal at upload time.
+# Stage 3 review uses this file to verify your portal metadata.
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "The Boogiemen"  # Used in leaderboard and announcements
+
+primary_contact:
+  name: "Mohammed Faham"
+  email: "mohdfahamb@gmail.com"   # Used for all organizer communication
+  phone: "+91-9110375281"        # Used for top-50 / top-10 outreach
+
+team_members:
+  - name: "Mohammed Faham"
+    email: "mohdfahamb@gmail.com"
+    role: "Lead and solo Engineer"          # Optional, e.g. "Team Lead", "Backend", "Data"
+  # Add more members as needed; solo participants list just one member
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/Faham-from-nowhere/Mohammed_Faham-redrob-hybrid-search"
+# Required. Must be reachable. Private repos OK if you can grant organizer
+# access at Stage 3 (the email to add will be communicated then).
+
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+# Required. A working hosted environment where the ranker can be run on a small
+# candidate sample. See Section 10.5 of submission_spec.md for acceptable
+# platforms (HuggingFace Spaces, Streamlit Cloud, Replit, Colab, Docker, Binder).
+
+reproduce_command: "python build_features.py && python build_semantic.py && python rank.py" 
+reproduce_command_powershell: "python build_features.py ; python build_semantic.py ; python rank.py"
+# The single command that produces submission.csv from candidates.jsonl.
+# Should run end-to-end within 5 minutes on CPU with 16GB RAM and no network.
+
+compute:
+  platform: "Windows PC / Local"                # Based on your local execution
+  cpu_cores: 8                                  # Adjust if your machine has more/less
+  ram_gb: 16                                    # Adjust if your machine has more/less
+  python_version: "3.12.10"                      # Your environment is running Python 3.12
+  os: "Windows 11"                              # Or Windows 10
+  uses_gpu_for_inference: false                 # false — FAISS and BM25 run entirely on CPU
+  has_network_during_ranking: false             # false — embedding model is downloaded locally prior to run
+  pre_computation_required: true                # true — generating the 100k dense embeddings and FAISS index
+  pre_computation_time_minutes: 5               # Approximate time taken to run build_semantic.py
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+# Transparency only — declared use is NOT penalized. Be honest. Stage 5 interview
+# may verify these declarations against your code; declarations that contradict
+# your code or your interview are flagged.
+ai_tools_used:
+  - "Gemini"        # e.g. for architecture discussion, code review
+  - "ChatGPT"  # e.g. for autocomplete
+  # Other options: "ChatGPT", "Cursor", "Gemini", "Codeium", "Other", "None"
+
+ai_usage_summary: |
+  Used an LLM assistant as a pair-programming partner for architectural discussion, pipeline design (RRF, Twin-Engine), and code generation (Pandas/FAISS scripts, Streamlit UI).
+  The LLM was also used to analyze ranking distributions and debug diversity filter fratricide.
+  No raw candidate JSON data was fed to any LLM during the final ranking execution.
+
+# ============================================================================
+# Approach summary (optional but recommended)
+# ============================================================================
+methodology_summary: |
+  We engineered a Twin-Engine Hybrid Search architecture fused via Reciprocal Rank Fusion (RRF). 
+  
+  1. Symbolic Engine: Calculates dense structural coverage and an anti-gaming "Trust Multiplier" to penalize keyword-stuffing. 
+  2. Semantic Engine: Utilizes all-MiniLM-L6-v2 (FAISS) to compute 95th-percentile contextual alignment across 4 core JD domains. 
+  
+  The dual lists are fused via RRF to prevent single-metric dominance.
+  Finally, we apply a 0.99 Jaccard Diversity filter to prevent vocabulary fratricide among elite candidates, guaranteeing a top 100 pool with pristine domain overlap but high variance in background.
+  Runtime is highly optimized for fast execution.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true        # I have read submission_spec.md in full
+  code_is_original_work: true       # My code is my team's original work (using AI as a tool is fine)
+  no_collusion: true                # I have not coordinated my submission with other teams
+  honeypot_check_done: true        # OPTIONAL — set true if you explicitly checked for honeypots in your ranking
+  reproduction_tested: true         # I have tested that my reproduce_command runs end-to-end

@@ -1,0 +1,10 @@
+# Environments
+.venv/
+env/
+__pycache__/
+
+# Raw Data 
+candidates.jsonl
+
+# OS files
+.DS_Store

@@ -1,0 +1,44 @@
+{
+  "skills_duration_types": {
+    "valid_integer": 960218,
+    "zero_months": 84
+  },
+  "assessment_score_types": {
+    "has_scores": 24244,
+    "empty_dict": 75756
+  },
+  "career_history_lengths": {
+    "2": 24186,
+    "4": 17131,
+    "1": 18508,
+    "3": 22126,
+    "6": 5196,
+    "7": 1218,
+    "5": 11469,
+    "8": 152,
+    "9": 14
+  },
+  "experience_years_distribution": {
+    "6": 8643,
+    "12": 4832,
+    "1": 7470,
+    "3": 8925,
+    "11": 4954,
+    "5": 8648,
+    "4": 8825,
+    "2": 8650,
+    "8": 7715,
+    "14": 4907,
+    "7": 8605,
+    "10": 5119,
+    "13": 4881,
+    "9": 7575,
+    "15": 246,
+    "16": 5
+  },
+  "honeypot_watch": {
+    "max_experience_years": 16.9,
+    "max_notice_period": 150,
+    "missing_signals": 0
+  }
+}

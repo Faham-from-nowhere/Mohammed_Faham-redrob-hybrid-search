@@ -1,0 +1,863 @@
+[
+  {
+    "candidate_id": "CAND_0006298",
+    "profile": {
+      "anonymized_name": "Vikram Bhatia",
+      "headline": "Civil Engineer | Driving business outcomes",
+      "summary": "Professional with 7.6+ years of experience. My professional background is in marketing manager \u2014 I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work \u2014 I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+      "location": "Singapore",
+      "country": "Singapore",
+      "years_of_experience": 7.6,
+      "current_title": "Civil Engineer",
+      "current_company": "Globex Inc",
+      "current_company_size": "501-1000",
+      "current_industry": "Manufacturing"
+    },
+    "career_history": [
+      {
+        "company": "Globex Inc",
+        "title": "Civil Engineer",
+        "start_date": "2024-04-07",
+        "end_date": null,
+        "duration_months": 26,
+        "is_current": true,
+        "industry": "Manufacturing",
+        "company_size": "501-1000",
+        "description": "Senior accounting role at a mid-sized company \u2014 month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+      },
+      {
+        "company": "Globex Inc",
+        "title": "Sales Executive",
+        "start_date": "2023-04-13",
+        "end_date": "2024-04-07",
+        "duration_months": 12,
+        "is_current": false,
+        "industry": "Manufacturing",
+        "company_size": "501-1000",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "company": "Globex Inc",
+        "title": "HR Manager",
+        "start_date": "2021-08-21",
+        "end_date": "2023-04-13",
+        "duration_months": 20,
+        "is_current": false,
+        "industry": "Manufacturing",
+        "company_size": "501-1000",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "company": "Dunder Mifflin",
+        "title": "Mechanical Engineer",
+        "start_date": "2018-12-05",
+        "end_date": "2021-07-22",
+        "duration_months": 32,
+        "is_current": false,
+        "industry": "Paper Products",
+        "company_size": "201-500",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Local Engineering College",
+        "degree": "B.E.",
+        "field_of_study": "MBA",
+        "start_year": 2010,
+        "end_year": 2015,
+        "grade": "8.17 CGPA",
+        "tier": "tier_4"
+      },
+      {
+        "institution": "Lovely Professional University",
+        "degree": "Ph.D",
+        "field_of_study": "Electrical Engineering",
+        "start_year": 2004,
+        "end_year": 2008,
+        "grade": "6.86 CGPA",
+        "tier": "tier_3"
+      }
+    ],
+    "skills": [
+      {
+        "name": "TypeScript",
+        "proficiency": "intermediate",
+        "endorsements": 7,
+        "duration_months": 13
+      },
+      {
+        "name": "Apache Beam",
+        "proficiency": "intermediate",
+        "endorsements": 7,
+        "duration_months": 12
+      },
+      {
+        "name": "Airflow",
+        "proficiency": "beginner",
+        "endorsements": 15,
+        "duration_months": 14
+      },
+      {
+        "name": "gRPC",
+        "proficiency": "intermediate",
+        "endorsements": 3,
+        "duration_months": 17
+      },
+      {
+        "name": "PowerPoint",
+        "proficiency": "beginner",
+        "endorsements": 2,
+        "duration_months": 17
+      },
+      {
+        "name": "Project Management",
+        "proficiency": "intermediate",
+        "endorsements": 9,
+        "duration_months": 17
+      },
+      {
+        "name": "BigQuery",
+        "proficiency": "beginner",
+        "endorsements": 6,
+        "duration_months": 17
+      }
+    ],
+    "certifications": [],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "professional"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "native"
+      }
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 75.9,
+      "signup_date": "2025-12-09",
+      "last_active_date": "2026-01-27",
+      "open_to_work_flag": false,
+      "profile_views_received_30d": 63,
+      "applications_submitted_30d": 4,
+      "recruiter_response_rate": 0.54,
+      "avg_response_time_hours": 95.4,
+      "skill_assessment_scores": {},
+      "connection_count": 164,
+      "endorsements_received": 24,
+      "notice_period_days": 60,
+      "expected_salary_range_inr_lpa": {
+        "min": 15.0,
+        "max": 26.7
+      },
+      "preferred_work_mode": "flexible",
+      "willing_to_relocate": true,
+      "github_activity_score": 39.4,
+      "search_appearance_30d": 49,
+      "saved_by_recruiters_30d": 5,
+      "interview_completion_rate": 0.66,
+      "offer_acceptance_rate": 0.71,
+      "verified_email": false,
+      "verified_phone": true,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_0068756",
+    "profile": {
+      "anonymized_name": "Karan Iyengar",
+      "headline": "Backend Engineer | Data pipelines & analytics",
+      "summary": "Software / data professional with 7.5 years of experience building data pipelines, backend systems, and analytics infrastructure. I'm a backend/data hybrid \u2014 Spark, Airflow, SQL warehouses are home territory; I'm building competence on the ML side. My toolkit is solid on the data engineering side \u2014 Python, SQL, Spark, Airflow, warehouse design \u2014 and I've completed a couple of self-directed ML projects (Kaggle competitions, side projects fine-tuning small models). Interested in transitioning toward more AI/ML-focused work, ideally at a company where I can leverage my existing data-infra skills while learning modern ML practice.",
+      "location": "New York",
+      "country": "USA",
+      "years_of_experience": 7.5,
+      "current_title": "Backend Engineer",
+      "current_company": "Swiggy",
+      "current_company_size": "5001-10000",
+      "current_industry": "Food Delivery"
+    },
+    "career_history": [
+      {
+        "company": "Swiggy",
+        "title": "Backend Engineer",
+        "start_date": "2023-11-09",
+        "end_date": null,
+        "duration_months": 31,
+        "is_current": true,
+        "industry": "Food Delivery",
+        "company_size": "5001-10000",
+        "description": "Built and maintained data pipelines on Apache Airflow processing ~500GB of daily transactional data across 12 source systems. Worked extensively with Spark (PySpark) for batch processing and dbt for the transformation/modeling layer in our Snowflake warehouse. Owned the on-call rotation for data quality issues \u2014 wrote most of the data quality checks that detect schema drift and unusual volume changes. The pipeline supports the analytics team and a few internal ML models."
+      },
+      {
+        "company": "Globex Inc",
+        "title": "Senior Software Engineer",
+        "start_date": "2019-10-31",
+        "end_date": "2023-11-09",
+        "duration_months": 49,
+        "is_current": false,
+        "industry": "Manufacturing",
+        "company_size": "501-1000",
+        "description": "Built and maintained data pipelines on Apache Airflow processing ~500GB of daily transactional data across 12 source systems. Worked extensively with Spark (PySpark) for batch processing and dbt for the transformation/modeling layer in our Snowflake warehouse. Owned the on-call rotation for data quality issues \u2014 wrote most of the data quality checks that detect schema drift and unusual volume changes. The pipeline supports the analytics team and a few internal ML models."
+      },
+      {
+        "company": "Zoho",
+        "title": "Data Analyst",
+        "start_date": "2019-02-03",
+        "end_date": "2019-10-31",
+        "duration_months": 9,
+        "is_current": false,
+        "industry": "SaaS",
+        "company_size": "10001+",
+        "description": "Backend + data hybrid role at a growth-stage startup. Built the company's first proper data warehouse (migrating from a tangled set of Postgres replicas to a clean Snowflake setup with dbt), the orchestration layer (Airflow), and the BI integration (Looker). Shipped a couple of small predictive features but the bulk of the role was data infrastructure."
+      }
+    ],
+    "education": [
+      {
+        "institution": "COEP Pune",
+        "degree": "M.Tech",
+        "field_of_study": "Computer Engineering",
+        "start_year": 2008,
+        "end_year": 2011,
+        "grade": "8.18 CGPA",
+        "tier": "tier_2"
+      },
+      {
+        "institution": "Symbiosis International",
+        "degree": "M.S.",
+        "field_of_study": "Computer Science",
+        "start_year": 2014,
+        "end_year": 2019,
+        "grade": "9.15 CGPA",
+        "tier": "tier_3"
+      }
+    ],
+    "skills": [
+      {
+        "name": "gRPC",
+        "proficiency": "intermediate",
+        "endorsements": 7,
+        "duration_months": 13
+      },
+      {
+        "name": "Computer Vision",
+        "proficiency": "intermediate",
+        "endorsements": 4,
+        "duration_months": 27
+      },
+      {
+        "name": "PEFT",
+        "proficiency": "intermediate",
+        "endorsements": 5,
+        "duration_months": 21
+      },
+      {
+        "name": "Vector Search",
+        "proficiency": "intermediate",
+        "endorsements": 6,
+        "duration_months": 13
+      },
+      {
+        "name": "Diffusion Models",
+        "proficiency": "advanced",
+        "endorsements": 19,
+        "duration_months": 59
+      },
+      {
+        "name": "PowerPoint",
+        "proficiency": "beginner",
+        "endorsements": 12,
+        "duration_months": 17
+      },
+      {
+        "name": "CNN",
+        "proficiency": "intermediate",
+        "endorsements": 15,
+        "duration_months": 19
+      },
+      {
+        "name": "Java",
+        "proficiency": "intermediate",
+        "endorsements": 5,
+        "duration_months": 22
+      },
+      {
+        "name": "Forecasting",
+        "proficiency": "intermediate",
+        "endorsements": 15,
+        "duration_months": 30
+      },
+      {
+        "name": "Snowflake",
+        "proficiency": "intermediate",
+        "endorsements": 1,
+        "duration_months": 8
+      },
+      {
+        "name": "Reinforcement Learning",
+        "proficiency": "intermediate",
+        "endorsements": 14,
+        "duration_months": 33
+      },
+      {
+        "name": "Spark",
+        "proficiency": "intermediate",
+        "endorsements": 0,
+        "duration_months": 31
+      },
+      {
+        "name": "Speech Recognition",
+        "proficiency": "advanced",
+        "endorsements": 9,
+        "duration_months": 44
+      },
+      {
+        "name": "Image Classification",
+        "proficiency": "advanced",
+        "endorsements": 12,
+        "duration_months": 24
+      },
+      {
+        "name": "MongoDB",
+        "proficiency": "beginner",
+        "endorsements": 12,
+        "duration_months": 17
+      }
+    ],
+    "certifications": [],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "native"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "professional"
+      }
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 82.1,
+      "signup_date": "2024-11-07",
+      "last_active_date": "2026-03-01",
+      "open_to_work_flag": false,
+      "profile_views_received_30d": 109,
+      "applications_submitted_30d": 6,
+      "recruiter_response_rate": 0.46,
+      "avg_response_time_hours": 26.3,
+      "skill_assessment_scores": {
+        "Diffusion Models": 61.8,
+        "Speech Recognition": 45.6,
+        "Image Classification": 63.4
+      },
+      "connection_count": 315,
+      "endorsements_received": 56,
+      "notice_period_days": 90,
+      "expected_salary_range_inr_lpa": {
+        "min": 27.1,
+        "max": 42.8
+      },
+      "preferred_work_mode": "onsite",
+      "willing_to_relocate": true,
+      "github_activity_score": 26.6,
+      "search_appearance_30d": 221,
+      "saved_by_recruiters_30d": 12,
+      "interview_completion_rate": 0.8,
+      "offer_acceptance_rate": 0.61,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_0065108",
+    "profile": {
+      "anonymized_name": "Pooja Trivedi",
+      "headline": "Mechanical Engineer | 13.7+ yrs experience",
+      "summary": "Professional with 13.7+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work \u2014 I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+      "location": "San Francisco",
+      "country": "USA",
+      "years_of_experience": 13.7,
+      "current_title": "Mechanical Engineer",
+      "current_company": "Acme Corp",
+      "current_company_size": "201-500",
+      "current_industry": "Manufacturing"
+    },
+    "career_history": [
+      {
+        "company": "Acme Corp",
+        "title": "Mechanical Engineer",
+        "start_date": "2024-10-04",
+        "end_date": null,
+        "duration_months": 20,
+        "is_current": true,
+        "industry": "Manufacturing",
+        "company_size": "201-500",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      },
+      {
+        "company": "TCS",
+        "title": "Project Manager",
+        "start_date": "2020-09-25",
+        "end_date": "2024-10-04",
+        "duration_months": 49,
+        "is_current": false,
+        "industry": "IT Services",
+        "company_size": "10001+",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      },
+      {
+        "company": "Wayne Enterprises",
+        "title": "Sales Executive",
+        "start_date": "2016-06-18",
+        "end_date": "2020-07-27",
+        "duration_months": 50,
+        "is_current": false,
+        "industry": "Conglomerate",
+        "company_size": "10001+",
+        "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+      },
+      {
+        "company": "Globex Inc",
+        "title": "Civil Engineer",
+        "start_date": "2012-10-07",
+        "end_date": "2016-05-19",
+        "duration_months": 44,
+        "is_current": false,
+        "industry": "Manufacturing",
+        "company_size": "501-1000",
+        "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+      }
+    ],
+    "education": [
+      {
+        "institution": "RV College of Engineering",
+        "degree": "M.Sc",
+        "field_of_study": "Electronics",
+        "start_year": 2015,
+        "end_year": 2018,
+        "grade": "8.26 CGPA",
+        "tier": "tier_2"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Go",
+        "proficiency": "intermediate",
+        "endorsements": 6,
+        "duration_months": 35
+      },
+      {
+        "name": "Redux",
+        "proficiency": "intermediate",
+        "endorsements": 5,
+        "duration_months": 36
+      },
+      {
+        "name": "React",
+        "proficiency": "beginner",
+        "endorsements": 12,
+        "duration_months": 15
+      },
+      {
+        "name": "JavaScript",
+        "proficiency": "beginner",
+        "endorsements": 9,
+        "duration_months": 15
+      },
+      {
+        "name": "Spring Boot",
+        "proficiency": "intermediate",
+        "endorsements": 0,
+        "duration_months": 36
+      },
+      {
+        "name": "Figma",
+        "proficiency": "intermediate",
+        "endorsements": 12,
+        "duration_months": 8
+      },
+      {
+        "name": "CNN",
+        "proficiency": "intermediate",
+        "endorsements": 1,
+        "duration_months": 26
+      },
+      {
+        "name": "CSS",
+        "proficiency": "intermediate",
+        "endorsements": 14,
+        "duration_months": 29
+      },
+      {
+        "name": "SEO",
+        "proficiency": "intermediate",
+        "endorsements": 8,
+        "duration_months": 33
+      },
+      {
+        "name": "AWS",
+        "proficiency": "beginner",
+        "endorsements": 12,
+        "duration_months": 17
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Six Sigma Green Belt",
+        "issuer": "ASQ",
+        "year": 2024
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "native"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "native"
+      }
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 43.2,
+      "signup_date": "2026-04-27",
+      "last_active_date": "2026-04-02",
+      "open_to_work_flag": false,
+      "profile_views_received_30d": 70,
+      "applications_submitted_30d": 9,
+      "recruiter_response_rate": 0.4,
+      "avg_response_time_hours": 82.9,
+      "skill_assessment_scores": {},
+      "connection_count": 159,
+      "endorsements_received": 20,
+      "notice_period_days": 120,
+      "expected_salary_range_inr_lpa": {
+        "min": 8.2,
+        "max": 17.2
+      },
+      "preferred_work_mode": "remote",
+      "willing_to_relocate": false,
+      "github_activity_score": -1,
+      "search_appearance_30d": 121,
+      "saved_by_recruiters_30d": 7,
+      "interview_completion_rate": 0.48,
+      "offer_acceptance_rate": 0.71,
+      "verified_email": false,
+      "verified_phone": false,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_0018135",
+    "profile": {
+      "anonymized_name": "Tanya Arora",
+      "headline": "Civil Engineer | 10.4+ yrs experience",
+      "summary": "Professional with 10.4+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work \u2014 I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+      "location": "Bhubaneswar, Odisha",
+      "country": "India",
+      "years_of_experience": 10.4,
+      "current_title": "Civil Engineer",
+      "current_company": "Pied Piper",
+      "current_company_size": "11-50",
+      "current_industry": "Software"
+    },
+    "career_history": [
+      {
+        "company": "Pied Piper",
+        "title": "Civil Engineer",
+        "start_date": "2025-04-02",
+        "end_date": null,
+        "duration_months": 14,
+        "is_current": true,
+        "industry": "Software",
+        "company_size": "11-50",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "company": "Pied Piper",
+        "title": "Project Manager",
+        "start_date": "2023-02-28",
+        "end_date": "2025-03-19",
+        "duration_months": 25,
+        "is_current": false,
+        "industry": "Software",
+        "company_size": "11-50",
+        "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+      },
+      {
+        "company": "Wayne Enterprises",
+        "title": "Customer Support",
+        "start_date": "2020-09-04",
+        "end_date": "2023-02-21",
+        "duration_months": 30,
+        "is_current": false,
+        "industry": "Conglomerate",
+        "company_size": "10001+",
+        "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+      },
+      {
+        "company": "Wayne Enterprises",
+        "title": "Sales Executive",
+        "start_date": "2018-12-07",
+        "end_date": "2020-08-28",
+        "duration_months": 21,
+        "is_current": false,
+        "industry": "Conglomerate",
+        "company_size": "10001+",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+      },
+      {
+        "company": "Wipro",
+        "title": "Marketing Manager",
+        "start_date": "2016-12-10",
+        "end_date": "2018-11-30",
+        "duration_months": 24,
+        "is_current": false,
+        "industry": "IT Services",
+        "company_size": "10001+",
+        "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+      },
+      {
+        "company": "Initech",
+        "title": "Marketing Manager",
+        "start_date": "2016-03-01",
+        "end_date": "2016-11-26",
+        "duration_months": 9,
+        "is_current": false,
+        "industry": "Software",
+        "company_size": "51-200",
+        "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function \u2014 content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Generic State University",
+        "degree": "B.E.",
+        "field_of_study": "Machine Learning",
+        "start_year": 2015,
+        "end_year": 2020,
+        "grade": "8.97 CGPA",
+        "tier": "tier_4"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Spark",
+        "proficiency": "intermediate",
+        "endorsements": 10,
+        "duration_months": 8
+      },
+      {
+        "name": "GCP",
+        "proficiency": "intermediate",
+        "endorsements": 10,
+        "duration_months": 20
+      },
+      {
+        "name": "Sales",
+        "proficiency": "beginner",
+        "endorsements": 14,
+        "duration_months": 8
+      },
+      {
+        "name": "Go",
+        "proficiency": "beginner",
+        "endorsements": 11,
+        "duration_months": 7
+      },
+      {
+        "name": "Kafka",
+        "proficiency": "intermediate",
+        "endorsements": 10,
+        "duration_months": 16
+      },
+      {
+        "name": "Microservices",
+        "proficiency": "beginner",
+        "endorsements": 5,
+        "duration_months": 2
+      }
+    ],
+    "certifications": [],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "native"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "native"
+      }
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 70.8,
+      "signup_date": "2022-07-24",
+      "last_active_date": "2026-02-14",
+      "open_to_work_flag": false,
+      "profile_views_received_30d": 75,
+      "applications_submitted_30d": 1,
+      "recruiter_response_rate": 0.11,
+      "avg_response_time_hours": 48.4,
+      "skill_assessment_scores": {},
+      "connection_count": 538,
+      "endorsements_received": 47,
+      "notice_period_days": 30,
+      "expected_salary_range_inr_lpa": {
+        "min": 13.2,
+        "max": 27.2
+      },
+      "preferred_work_mode": "onsite",
+      "willing_to_relocate": false,
+      "github_activity_score": 8.7,
+      "search_appearance_30d": 5,
+      "saved_by_recruiters_30d": 4,
+      "interview_completion_rate": 0.84,
+      "offer_acceptance_rate": -1,
+      "verified_email": true,
+      "verified_phone": false,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_0071701",
+    "profile": {
+      "anonymized_name": "Divya Joshi",
+      "headline": "Software Engineer | Full-stack development",
+      "summary": "Software engineer with 3.6 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. Most of my work is conventional backend engineering \u2014 APIs, databases, queues, deployments. I've been keeping up with AI/ML at a self-learner level \u2014 taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project \u2014 but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+      "location": "Singapore",
+      "country": "Singapore",
+      "years_of_experience": 3.6,
+      "current_title": "Software Engineer",
+      "current_company": "Capgemini",
+      "current_company_size": "10001+",
+      "current_industry": "IT Services"
+    },
+    "career_history": [
+      {
+        "company": "Capgemini",
+        "title": "Software Engineer",
+        "start_date": "2024-05-07",
+        "end_date": null,
+        "duration_months": 25,
+        "is_current": true,
+        "industry": "IT Services",
+        "company_size": "10001+",
+        "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team \u2014 moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+      },
+      {
+        "company": "Infosys",
+        "title": "QA Engineer",
+        "start_date": "2022-11-14",
+        "end_date": "2024-05-07",
+        "duration_months": 18,
+        "is_current": false,
+        "industry": "IT Services",
+        "company_size": "10001+",
+        "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft \u2014 accessibility, performance, animations \u2014 but limited backend exposure."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tier-3 Engineering College",
+        "degree": "M.Sc",
+        "field_of_study": "Machine Learning",
+        "start_year": 2017,
+        "end_year": 2020,
+        "grade": "89%",
+        "tier": "tier_4"
+      },
+      {
+        "institution": "VJTI Mumbai",
+        "degree": "M.E.",
+        "field_of_study": "Artificial Intelligence",
+        "start_year": 2008,
+        "end_year": 2013,
+        "grade": "7.61 CGPA",
+        "tier": "tier_2"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agile",
+        "proficiency": "beginner",
+        "endorsements": 0,
+        "duration_months": 4
+      },
+      {
+        "name": "Kafka",
+        "proficiency": "intermediate",
+        "endorsements": 10,
+        "duration_months": 32
+      },
+      {
+        "name": "gRPC",
+        "proficiency": "beginner",
+        "endorsements": 7,
+        "duration_months": 7
+      },
+      {
+        "name": "TensorFlow",
+        "proficiency": "intermediate",
+        "endorsements": 13,
+        "duration_months": 11
+      },
+      {
+        "name": "Image Classification",
+        "proficiency": "intermediate",
+        "endorsements": 10,
+        "duration_months": 35
+      },
+      {
+        "name": "Redux",
+        "proficiency": "intermediate",
+        "endorsements": 5,
+        "duration_months": 30
+      },
+      {
+        "name": "Terraform",
+        "proficiency": "beginner",
+        "endorsements": 7,
+        "duration_months": 6
+      }
+    ],
+    "certifications": [],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "native"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "conversational"
+      }
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 45.6,
+      "signup_date": "2024-10-24",
+      "last_active_date": "2025-11-30",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 68,
+      "applications_submitted_30d": 8,
+      "recruiter_response_rate": 0.52,
+      "avg_response_time_hours": 40.9,
+      "skill_assessment_scores": {},
+      "connection_count": 398,
+      "endorsements_received": 45,
+      "notice_period_days": 30,
+      "expected_salary_range_inr_lpa": {
+        "min": 14.2,
+        "max": 24.0
+      },
+      "preferred_work_mode": "onsite",
+      "willing_to_relocate": false,
+      "github_activity_score": 4.4,
+      "search_appearance_30d": 238,
+      "saved_by_recruiters_30d": 2,
+      "interview_completion_rate": 0.71,
+      "offer_acceptance_rate": 0.7,
+      "verified_email": true,
+      "verified_phone": false,
+      "linkedin_connected": true
+    }
+  }
+]
