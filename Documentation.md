@@ -220,6 +220,5 @@ To ensure this tool is usable by recruiting stakeholders, we built `app.py`. The
 
 
 
-> "What's the biggest lesson you learned?"
 
  We initially assumed stricter diversity filtering would improve candidate quality. Our experiments showed the opposite. A 0.95 Jaccard threshold removed many top candidates because elite Search/ML engineers naturally share similar vocabulary. The data taught us that preserving high-quality candidates was more important than maximizing vocabulary diversity.
