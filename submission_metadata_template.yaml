@@ -27,7 +27,7 @@ github_repo: "https://github.com/Faham-from-nowhere/Mohammed_Faham-redrob-hybrid
 # Required. Must be reachable. Private repos OK if you can grant organizer
 # access at Stage 3 (the email to add will be communicated then).
 
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://mohammedfaham-the-boogieman.streamlit.app"
 # Required. A working hosted environment where the ranker can be run on a small
 # candidate sample. See Section 10.5 of submission_spec.md for acceptable
 # platforms (HuggingFace Spaces, Streamlit Cloud, Replit, Colab, Docker, Binder).
@@ -46,7 +46,7 @@ compute:
   uses_gpu_for_inference: false                 # false — FAISS and BM25 run entirely on CPU
   has_network_during_ranking: false             # false — embedding model is downloaded locally prior to run
   pre_computation_required: true                # true — generating the 100k dense embeddings and FAISS index
-  pre_computation_time_minutes: 5               # Approximate time taken to run build_semantic.py
+  pre_computation_time_minutes: 90              # Approximate time taken to run build_semantic.py and build_features.py as we use a single machine with 8 cores and 16GB RAM. This is a one-time cost and not part of the final ranking execution.and no gpu with llm embeddings
 
 # ============================================================================
 # AI tools declaration
@@ -86,3 +86,4 @@ declarations:
   no_collusion: true                # I have not coordinated my submission with other teams
   honeypot_check_done: true        # OPTIONAL — set true if you explicitly checked for honeypots in your ranking
   reproduction_tested: true         # I have tested that my reproduce_command runs end-to-end
+
